@@ -3,26 +3,8 @@
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
-class Student:
-    def __init__(self, name, subject):
-        self.name = name
-        self.subject = subject
-        self.marks = []
 
-    def average(self):
-        return sum(self.marks) / len(self.marks)
-
-
-class WorkingStudent(Student):
-    def __init__(self, name, subject, salary):
-        super().__init__(name, subject)
-        self.salary = salary
-
-
-work_student1 = WorkingStudent("Resty", "Math", "1000")
-work_student1.marks.append(46)
-work_student1.marks.append(30)
-print(work_student1.average())
+# print(WorkingStudent.sum_test("Cathy", "English"))
 
 
 def print_hi(name):
