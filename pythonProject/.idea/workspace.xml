@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6a15c8c-5317-4ae7-9b4a-4fcd213b9278" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../files_project/csv_data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../files_project/csv_read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../files_project/friends_json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../files_project/friends_json.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../files_project/movie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../files_project/movies_file.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../milestone2/.idea/milestone2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../milestone2/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../milestone2/books.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../milestone2/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../milestone2/utils/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../milestone2/utils/database_csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../milestone2/utils/database_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../files_project/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../files_project/data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../files_project/nearby_friends.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../files_project/nearby_friends.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../milestone2/utils/database_connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../milestone2/utils/database_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../milestone2/utils/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/../milestone2/utils/database.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
