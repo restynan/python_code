@@ -1,0 +1,4 @@
+name,age,university,degree
+rolf,30,mit,computer science
+jose,70,oxfoRd,compuTingfff
+anna,30,cambridge,physics
